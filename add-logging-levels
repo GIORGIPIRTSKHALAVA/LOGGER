@@ -1,0 +1,8 @@
+2024-03-31 00:16:00,366 - INFO - This is a valid message
+2024-03-31 00:16:00,367 - ERROR - Validation error: Message must not be null or blank
+2024-03-31 00:16:31,791 - INFO - This is a valid message
+2024-03-31 00:16:31,793 - INFO -  0 
+2024-03-31 00:16:52,275 - INFO - This is a valid message
+2024-03-31 00:16:52,277 - INFO -  abcd 
+2024-03-31 00:17:07,038 - INFO - This is a valid message
+2024-03-31 00:17:07,040 - ERROR - Validation error: Message must not be null or blank
